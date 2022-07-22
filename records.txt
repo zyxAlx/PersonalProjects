@@ -1,6 +1,0 @@
-________Alex Airlines_________
-Customer Name: 
-Customer Gender: 
-	Description
-Destination   Cluj
-Flight will cost : 1200
