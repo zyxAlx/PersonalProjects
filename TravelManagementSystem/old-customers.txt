@@ -1,0 +1,6 @@
+
+Customer ID: 1
+Name: Alex
+Age: 21
+Mobil Number: 21Adress: 21
+Gender: 21

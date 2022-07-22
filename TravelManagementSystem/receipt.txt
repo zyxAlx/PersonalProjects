@@ -1,0 +1,12 @@
+----Travel Agency----
+----Receipt----
+___________________________________
+Customer ID: 0
+
+Description		 Total
+Hotel cost:		480.00
+Travel(cab) cost	 0.00
+_____________________________________
+Total Charge:		480.00
+_____________________________________
+---------Thank you!------------
